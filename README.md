@@ -44,3 +44,8 @@ Modeling Approach: Stochastic Agent-Based Model (ABM)
 
 Key Libraries: dplyr, ggplot2 (for visualization), tidyr
 
+
+## 📜 Citation
+If you use this code or model in your research, please cite it as:
+
+> Pawar, M. (2025). Skyrim Political Opinion Dynamics: Comparative Campaign Model [Source Code]. https://github.com/MannPawar/skyrim-civil-war
